@@ -37,6 +37,16 @@ Este repositório contém o código fonte completo do sistema de agendamento do 
   - Configuração de equipamentos
   - Relatórios de uso
 
+## 🎨 Design e Prototipagem
+
+O design e protótipo do sistema foram desenvolvidos no Figma, onde você pode visualizar:
+- 📱 Wireframes das telas
+- 🎨 Design system e componentes
+- 🔄 Fluxos de usuário
+- 📐 Especificações de layout
+
+**🔗 [Acessar Protótipo no Figma](https://www.figma.com/design/qb4jjWtSSBZLnlmCYlfUq8/sistema-agendamento)**
+
 ## 💻 Tecnologias
 
 **[COMPLETAR]**
