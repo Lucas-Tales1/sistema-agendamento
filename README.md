@@ -83,7 +83,7 @@ A documentação completa do sistema, incluindo API, arquitetura e guias de uso,
 ## 📞 Contato
 
 - Email: maker.cnat@ifrn.edu.br
-- GitHub: [@cnatmaker](https://github.com/cnat-maker-ifrn)
+- GitHub: [@cnat-maker-ifrn](https://github.com/cnat-maker-ifrn)
 
 ## 📄 Licença
 
