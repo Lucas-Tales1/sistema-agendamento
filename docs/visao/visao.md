@@ -17,19 +17,19 @@
 | **_Uma boa solução seria_** | Uma plataforma que centralize e simplifique o processo de solicitação e gestão dos serviços prestados pelo laboratório.|
 
 ### 3. Descrição dos usuários
-| __ | __ |
+| Item | Descrição |
 |:------------------|:-----|
 | **_Publico_** | Pessoas que desejam solicitar os serviços oferecidos pelo laboratório, como estudantes, professores ou membros da comunidade. |
 | **_Bolsista/Voluntario_** | Colaboradores responsáveis por gerenciar os processos relacionados à prestação dos serviços, incluindo o controle das solicitações e o acompanhamento das demandas. |
 
 **Ambiente de trabalho**
-| __ | __ |
+| Item | Descrição |
 |:------------------|:-----|
 | **_Publico_** | Poderá acessar o sistema a partir de qualquer dispositivo com conexão à internet, por meio de um navegador web compatível. |
 | **_Bolsista/Voluntario_** | Também poderão acessar o sistema remotamente, utilizando qualquer dispositivo conectado à internet, por meio de um navegador web. |
 
 **Responsabilidade**
-| __ | __ |
+| Item | Descrição |
 |:------------------|:-----|
 | **_Bolsista/Voluntario_** |  São responsáveis por atender às solicitações geradas pelo público, bem como por gerenciar os processos necessários para a execução e finalização dos serviços. |
 | **_Publico_** | Deve preencher corretamente os dados ao criar uma solicitação de serviço, além de acompanhar o andamento e negociar eventuais ajustes até a conclusão do atendimento.  |
